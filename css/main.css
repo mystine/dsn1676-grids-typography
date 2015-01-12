@@ -22,17 +22,3 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
-.logo {
-    display: block;
-    width: 100%;
-}
-
-h1 {
-    position: absolute;
-    display: inline-block;
-}
-.logo-2 {
-    float: left;
-    
-}
